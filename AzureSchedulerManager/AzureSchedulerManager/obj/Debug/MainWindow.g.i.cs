@@ -101,6 +101,12 @@ namespace AzureSchedulerManager {
             return;
             case 3:
             this.btnBrowseSettings = ((System.Windows.Controls.Button)(target));
+            
+            #line 13 "..\..\MainWindow.xaml"
+            this.btnBrowseSettings.Click += new System.Windows.RoutedEventHandler(this.btnBrowseSettings_Click);
+            
+            #line default
+            #line hidden
             return;
             }
             this._contentLoaded = true;

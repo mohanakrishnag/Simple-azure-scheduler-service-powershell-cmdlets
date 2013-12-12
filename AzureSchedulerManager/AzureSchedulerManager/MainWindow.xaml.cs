@@ -26,6 +26,9 @@ namespace AzureSchedulerManager
             InitializeComponent();
         }
 
-        
+        private void btnBrowseSettings_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

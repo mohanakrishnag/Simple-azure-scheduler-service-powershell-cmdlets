@@ -24,3 +24,6 @@ E:\MK\IMP\AzureSchedulerManager\AzureSchedulerManager\obj\Debug\AzureSchedulerMa
 E:\MK\IMP\AzureSchedulerManager\AzureSchedulerManager\obj\Debug\AzureSchedulerManager.g.resources
 E:\MK\IMP\AzureSchedulerManager\AzureSchedulerManager\obj\Debug\AzureSchedulerManager.Properties.Resources.resources
 E:\MK\IMP\AzureSchedulerManager\AzureSchedulerManager\obj\Debug\AzureSchedulerManager.csproj.GenerateResource.Cache
+C:\Users\etgadmin\Documents\GitHub\Windows-Azure-Scheduler-Manager\AzureSchedulerManager\AzureSchedulerManager\bin\Debug\AzureSchedulerManager.exe.config
+C:\Users\etgadmin\Documents\GitHub\Windows-Azure-Scheduler-Manager\AzureSchedulerManager\AzureSchedulerManager\obj\Debug\AzureSchedulerManager.exe
+C:\Users\etgadmin\Documents\GitHub\Windows-Azure-Scheduler-Manager\AzureSchedulerManager\AzureSchedulerManager\obj\Debug\AzureSchedulerManager.pdb

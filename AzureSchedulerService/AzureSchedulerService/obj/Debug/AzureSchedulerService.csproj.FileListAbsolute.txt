@@ -1,0 +1,5 @@
+C:\Users\etgadmin\Documents\Visual Studio 2012\Projects\MOHAN\AzureSchedulerService\AzureSchedulerService\obj\Debug\AzureSchedulerService.csprojResolveAssemblyReference.cache
+C:\Users\etgadmin\Documents\Visual Studio 2012\Projects\MOHAN\AzureSchedulerService\AzureSchedulerService\bin\Debug\AzureSchedulerService.dll
+C:\Users\etgadmin\Documents\Visual Studio 2012\Projects\MOHAN\AzureSchedulerService\AzureSchedulerService\bin\Debug\AzureSchedulerService.pdb
+C:\Users\etgadmin\Documents\Visual Studio 2012\Projects\MOHAN\AzureSchedulerService\AzureSchedulerService\obj\Debug\AzureSchedulerService.dll
+C:\Users\etgadmin\Documents\Visual Studio 2012\Projects\MOHAN\AzureSchedulerService\AzureSchedulerService\obj\Debug\AzureSchedulerService.pdb
